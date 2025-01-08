@@ -1,2 +1,2 @@
-# iCUE-battery-percentage
-iCUE-battery-percentage
+# iCUE-battery-indicator
+iCUE-battery-indicator
